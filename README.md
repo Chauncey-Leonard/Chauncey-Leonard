@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a back-end engineer
-- 🌱 I’m currently learning react, vue and typescript
+- 🔭 I’m currently working as a **back-end** engineer
+- 🌱 I’m currently learning **React**, **Vue** and **TypeScript**...
 
 <!--### Skills | Tools
 
