@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a back-end engineer
 - 🌱 I’m currently learning react, vue and typescript
 
-### Skills | Tools
+<!--### Skills | Tools
 
 ![Java](https://img.shields.io/badge/Java-C76D00?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-32CD32?style=flat-square&logo=Spring&logoColor=white)
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ![nginx](https://img.shields.io/badge/nginx-0C974D?style=flat-square&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-01AEFF?style=flat-square&logo=Docker&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-FDD500?style=flat-square&logo=javascript&logoColor=white)
+-->
