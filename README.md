@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a back-end engineer
-- 🌱 I’m currently learning react & vue & typescript
+- 🌱 I’m currently learning react, vue and typescript
