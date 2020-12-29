@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a **back-end** engineer
 - 🌱 I’m currently learning **React**, **Vue** and **TypeScript**...
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauncey-Leonard&hide=html&hide_border=true">
+
 <!--### Skills | Tools
 
 ![Java](https://img.shields.io/badge/Java-C76D00?style=flat-square&logo=Java&logoColor=white)
