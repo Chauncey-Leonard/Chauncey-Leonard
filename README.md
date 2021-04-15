@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: chaunc3y18@163.com
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">……
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauncey-Leonard&hide=html&hide_border=true&layout=compact">
+<div style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauncey-Leonard&hide=html&hide_border=true&layout=compact">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true&hide_border=true">
+</div>
