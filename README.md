@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 I’m currently watching _**Effective Java**_ and _**Clean Code**_...
 - 📫 How to reach me: chaunc3y18@163.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true" alt="logo" height="145" align="right" style="top: -30px" />
 
 <!--### Skills | Tools
 
