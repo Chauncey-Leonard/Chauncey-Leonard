@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ……
 
 <div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true&hide_border=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true&hide_border=true&hide_title=true&icon_color=805AD5&text_color=718096&bg_color=ffffff">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chauncey-Leonard&hide=html&hide_border=true&layout=compact">
 </div>
