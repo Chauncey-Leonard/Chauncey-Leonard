@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Chauncey-Leonard&show_icons=true&hide_border=true">
 -->
 
-- 🔭 I’m currently working as a **back-end** engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working as a **back-end** engineer 
 - 🌱 I’m currently learning **React**, **Vue**, **TypeScript** and **Redis**...
 - 😄 I’m currently watching _**Effective Java**_ and _**Clean Code**_...
 - 📫 How to reach me: chaunc3y18@163.com
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">……
 
 
 <!--### Skills | Tools
